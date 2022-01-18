@@ -1,7 +1,7 @@
-# hello-world
+# Hello World !
 
-# Hey i'm Arane
+# I'm Arane
 
 # Basically i'm doing this tutorial to understand Github
 
-# I hope i'll get used to it very soon 
+# I hope i'll get used to it very soon...
